@@ -1,3 +1,6 @@
 *.docs
 !sample6.docs
 !sample4.docs
+arun/**/*.txt
+!arun/kumar/kumarOne.txt 
+arun/*.html
