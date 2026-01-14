@@ -3,5 +3,4 @@
 !sample4.docs
 arun/**/*.txt
 !arun/kumar/kumarOne.txt 
-arun/*.html
-Main branch
+arun/*.htmls
